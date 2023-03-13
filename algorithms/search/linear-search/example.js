@@ -11,7 +11,7 @@ const array = [1, 10, 12, 13, 14, 15, 17, 19, 3, 5, 6, 9]
  * @param {Array} array - список.
  * @param {number} target - значения которое надо найти.
  */
-function example(array, target) {
+function linearSearch(array, target) {
 
   for (let i = 0; i < array.length; i++) {
 
@@ -25,5 +25,5 @@ function example(array, target) {
 }
 
 // вызов
-console.log(example(array, 12))
+console.log(linearSearch(array, 12))
 
