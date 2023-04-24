@@ -7,4 +7,6 @@
 
 ### [`Структуры данных`](./dataStructures)
 
+### [`Big O Notation`](./bigONotation)
+
 
